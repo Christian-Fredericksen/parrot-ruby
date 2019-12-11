@@ -3,6 +3,5 @@
 def parrot(phrase = "Squawk!", name = "Pretty bird")
   puts "Squawk!"
   phrase
-  name
   
 end
